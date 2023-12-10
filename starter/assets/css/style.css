@@ -6,7 +6,7 @@
 
 body {
   /*changed the background color from #d9dcd6 to orange*/
-  background-color: orange;
+  background-color: grey;
 }
 
 .header {
@@ -122,6 +122,12 @@ p {
   margin-bottom: 10px;
   text-align: center;
 }
+/*set of three repeated blocks*/
+.benefit-tree {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
+}/*
 .benefit-lead img {
   display: block;
   margin: 10px auto;
@@ -138,9 +144,9 @@ p {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-/* block of three margin repeated
-*/
+}*/
+
+/* block of three margin repeated*/
 /* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -178,7 +184,10 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+.engine {
+  max-height: 200px;
+}
+/*repeated block of three codes
 .search-engine-optimization img {
   max-height: 200px;
 }
@@ -189,7 +198,8 @@ p {
 
 .social-media-marketing img {
   max-height: 200px;
-}
+}*/
+
 /*repeated three blockes of code
 .search-engine-optimization h2 {
     margin-bottom: 20px;
